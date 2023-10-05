@@ -1,4 +1,3 @@
-# main.py
 import tkinter as tk
 from tkinter import filedialog
 from convert_files import convert_multiple_files

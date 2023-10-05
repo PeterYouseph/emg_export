@@ -2,6 +2,7 @@ import numpy as np
 import pyedflib
 import pandas as pd
 
+
 def edf_to_csv(edf_file_path, csv_file_path):
     # Open the EDF file
     try:
